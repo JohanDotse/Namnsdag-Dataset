@@ -1,1 +1,2078 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<namnsdagar locale="sv-SE" type="namnsdagar_sverige">
+  <meta>
+    <date_format>MM-DD</date_format>
+    <source>https://github.com/johandotse</source>
+    <generated_at>2025-12-29T18:20:27Z</generated_at>
+  </meta>
+  <days>
+    <day date="01-02">
+      <names>
+        <name>Svea</name>
+      </names>
+    </day>
+    <day date="01-03">
+      <names>
+        <name>Alfred</name>
+        <name>Alfrida</name>
+      </names>
+    </day>
+    <day date="01-04">
+      <names>
+        <name>Rut</name>
+      </names>
+    </day>
+    <day date="01-05">
+      <names>
+        <name>Hanna</name>
+        <name>Hannele</name>
+      </names>
+    </day>
+    <day date="01-06">
+      <names>
+        <name>Kasper</name>
+        <name>Melker</name>
+        <name>Baltsar</name>
+      </names>
+    </day>
+    <day date="01-07">
+      <names>
+        <name>August</name>
+        <name>Augusta</name>
+      </names>
+    </day>
+    <day date="01-08">
+      <names>
+        <name>Erland</name>
+      </names>
+    </day>
+    <day date="01-09">
+      <names>
+        <name>Gunnar</name>
+        <name>Gunder</name>
+      </names>
+    </day>
+    <day date="01-10">
+      <names>
+        <name>Sigurd</name>
+        <name>Sigbritt</name>
+      </names>
+    </day>
+    <day date="01-11">
+      <names>
+        <name>Jan</name>
+        <name>Jannike</name>
+      </names>
+    </day>
+    <day date="01-12">
+      <names>
+        <name>Frideborg</name>
+        <name>Fridolf</name>
+      </names>
+    </day>
+    <day date="01-13">
+      <names>
+        <name>Knut</name>
+      </names>
+    </day>
+    <day date="01-14">
+      <names>
+        <name>Felix</name>
+        <name>Felicia</name>
+      </names>
+    </day>
+    <day date="01-15">
+      <names>
+        <name>Laura</name>
+        <name>Lorentz</name>
+      </names>
+    </day>
+    <day date="01-16">
+      <names>
+        <name>Hjalmar</name>
+        <name>Helmer</name>
+      </names>
+    </day>
+    <day date="01-17">
+      <names>
+        <name>Anton</name>
+        <name>Tony</name>
+      </names>
+    </day>
+    <day date="01-18">
+      <names>
+        <name>Hilda</name>
+        <name>Hildur</name>
+      </names>
+    </day>
+    <day date="01-19">
+      <names>
+        <name>Henrik</name>
+        <name>Henry</name>
+      </names>
+    </day>
+    <day date="01-20">
+      <names>
+        <name>Fabian</name>
+        <name>Sebastian</name>
+      </names>
+    </day>
+    <day date="01-21">
+      <names>
+        <name>Agnes</name>
+        <name>Agneta</name>
+      </names>
+    </day>
+    <day date="01-22">
+      <names>
+        <name>Vincent</name>
+        <name>Viktor</name>
+      </names>
+    </day>
+    <day date="01-23">
+      <names>
+        <name>Frej</name>
+        <name>Freja</name>
+      </names>
+    </day>
+    <day date="01-24">
+      <names>
+        <name>Erika</name>
+      </names>
+    </day>
+    <day date="01-25">
+      <names>
+        <name>Paul</name>
+        <name>Pål</name>
+      </names>
+    </day>
+    <day date="01-26">
+      <names>
+        <name>Bodil</name>
+        <name>Boel</name>
+      </names>
+    </day>
+    <day date="01-27">
+      <names>
+        <name>Göte</name>
+        <name>Göta</name>
+      </names>
+    </day>
+    <day date="01-28">
+      <names>
+        <name>Karl</name>
+        <name>Karla</name>
+      </names>
+    </day>
+    <day date="01-29">
+      <names>
+        <name>Diana</name>
+      </names>
+    </day>
+    <day date="01-30">
+      <names>
+        <name>Gunilla</name>
+        <name>Gunhild</name>
+      </names>
+    </day>
+    <day date="01-31">
+      <names>
+        <name>Ivar</name>
+        <name>Joar</name>
+      </names>
+    </day>
+    <day date="02-01">
+      <names>
+        <name>Max</name>
+        <name>Maximilian</name>
+      </names>
+    </day>
+    <day date="02-03">
+      <names>
+        <name>Disa</name>
+        <name>Hjördis</name>
+      </names>
+    </day>
+    <day date="02-04">
+      <names>
+        <name>Ansgar</name>
+        <name>Anselm</name>
+      </names>
+    </day>
+    <day date="02-05">
+      <names>
+        <name>Agata</name>
+        <name>Agda</name>
+      </names>
+    </day>
+    <day date="02-06">
+      <names>
+        <name>Dorotea</name>
+        <name>Doris</name>
+      </names>
+    </day>
+    <day date="02-07">
+      <names>
+        <name>Rikard</name>
+        <name>Dick</name>
+      </names>
+    </day>
+    <day date="02-08">
+      <names>
+        <name>Berta</name>
+        <name>Bert</name>
+      </names>
+    </day>
+    <day date="02-09">
+      <names>
+        <name>Fanny</name>
+        <name>Franciska</name>
+      </names>
+    </day>
+    <day date="02-10">
+      <names>
+        <name>Iris</name>
+      </names>
+    </day>
+    <day date="02-11">
+      <names>
+        <name>Yngve</name>
+        <name>Inge</name>
+      </names>
+    </day>
+    <day date="02-12">
+      <names>
+        <name>Evelina</name>
+        <name>Evy</name>
+      </names>
+    </day>
+    <day date="02-13">
+      <names>
+        <name>Agne</name>
+        <name>Ove</name>
+      </names>
+    </day>
+    <day date="02-14">
+      <names>
+        <name>Valentin</name>
+      </names>
+    </day>
+    <day date="02-15">
+      <names>
+        <name>Sigfrid</name>
+      </names>
+    </day>
+    <day date="02-16">
+      <names>
+        <name>Julia</name>
+        <name>Julius</name>
+      </names>
+    </day>
+    <day date="02-17">
+      <names>
+        <name>Alexandra</name>
+        <name>Sandra</name>
+      </names>
+    </day>
+    <day date="02-18">
+      <names>
+        <name>Frida</name>
+        <name>Fritiof</name>
+      </names>
+    </day>
+    <day date="02-19">
+      <names>
+        <name>Gabriella</name>
+        <name>Ella</name>
+      </names>
+    </day>
+    <day date="02-20">
+      <names>
+        <name>Vivianne</name>
+      </names>
+    </day>
+    <day date="02-21">
+      <names>
+        <name>Hilding</name>
+      </names>
+    </day>
+    <day date="02-22">
+      <names>
+        <name>Pia</name>
+      </names>
+    </day>
+    <day date="02-23">
+      <names>
+        <name>Torsten</name>
+        <name>Torun</name>
+      </names>
+    </day>
+    <day date="02-24">
+      <names>
+        <name>Mattias</name>
+        <name>Mats</name>
+      </names>
+    </day>
+    <day date="02-25">
+      <names>
+        <name>Sigvard</name>
+        <name>Sivert</name>
+      </names>
+    </day>
+    <day date="02-26">
+      <names>
+        <name>Torgny</name>
+        <name>Torkel</name>
+      </names>
+    </day>
+    <day date="02-27">
+      <names>
+        <name>Lage</name>
+      </names>
+    </day>
+    <day date="02-28">
+      <names>
+        <name>Maria</name>
+        <name>Maja</name>
+      </names>
+    </day>
+    <day date="03-01">
+      <names>
+        <name>Albin</name>
+        <name>Elvira</name>
+      </names>
+    </day>
+    <day date="03-02">
+      <names>
+        <name>Ernst</name>
+        <name>Erna</name>
+      </names>
+    </day>
+    <day date="03-03">
+      <names>
+        <name>Gunborg</name>
+        <name>Gunvor</name>
+      </names>
+    </day>
+    <day date="03-04">
+      <names>
+        <name>Adrian</name>
+        <name>Adriana</name>
+      </names>
+    </day>
+    <day date="03-05">
+      <names>
+        <name>Tora</name>
+        <name>Tove</name>
+      </names>
+    </day>
+    <day date="03-06">
+      <names>
+        <name>Ebba</name>
+        <name>Ebbe</name>
+      </names>
+    </day>
+    <day date="03-07">
+      <names>
+        <name>Camilla</name>
+      </names>
+    </day>
+    <day date="03-08">
+      <names>
+        <name>Siv</name>
+        <name>Saga</name>
+      </names>
+    </day>
+    <day date="03-09">
+      <names>
+        <name>Torbjörn</name>
+        <name>Torleif</name>
+      </names>
+    </day>
+    <day date="03-10">
+      <names>
+        <name>Edla</name>
+        <name>Ada</name>
+      </names>
+    </day>
+    <day date="03-11">
+      <names>
+        <name>Edvin</name>
+        <name>Egon</name>
+      </names>
+    </day>
+    <day date="03-12">
+      <names>
+        <name>Viktoria</name>
+        <name>Regina</name>
+      </names>
+    </day>
+    <day date="03-13">
+      <names>
+        <name>Greger</name>
+      </names>
+    </day>
+    <day date="03-14">
+      <names>
+        <name>Matilda</name>
+        <name>Maud</name>
+      </names>
+    </day>
+    <day date="03-15">
+      <names>
+        <name>Kristoffer</name>
+        <name>Christel</name>
+      </names>
+    </day>
+    <day date="03-16">
+      <names>
+        <name>Herbert</name>
+        <name>Gilbert</name>
+      </names>
+    </day>
+    <day date="03-17">
+      <names>
+        <name>Gertrud</name>
+      </names>
+    </day>
+    <day date="03-18">
+      <names>
+        <name>Edvard</name>
+        <name>Edmund</name>
+      </names>
+    </day>
+    <day date="03-19">
+      <names>
+        <name>Josef</name>
+        <name>Josefina</name>
+      </names>
+    </day>
+    <day date="03-20">
+      <names>
+        <name>Joakim</name>
+        <name>Kim</name>
+      </names>
+    </day>
+    <day date="03-21">
+      <names>
+        <name>Bengt</name>
+      </names>
+    </day>
+    <day date="03-22">
+      <names>
+        <name>Kennet</name>
+        <name>Kent</name>
+      </names>
+    </day>
+    <day date="03-23">
+      <names>
+        <name>Gerda</name>
+        <name>Gerd</name>
+      </names>
+    </day>
+    <day date="03-24">
+      <names>
+        <name>Gabriel</name>
+        <name>Rafael</name>
+      </names>
+    </day>
+    <day date="03-26">
+      <names>
+        <name>Emanuel</name>
+      </names>
+    </day>
+    <day date="03-27">
+      <names>
+        <name>Rudolf</name>
+        <name>Ralf</name>
+      </names>
+    </day>
+    <day date="03-28">
+      <names>
+        <name>Malkolm</name>
+        <name>Morgan</name>
+      </names>
+    </day>
+    <day date="03-29">
+      <names>
+        <name>Jonas</name>
+        <name>Jens</name>
+      </names>
+    </day>
+    <day date="03-30">
+      <names>
+        <name>Holger</name>
+        <name>Holmfrid</name>
+      </names>
+    </day>
+    <day date="03-31">
+      <names>
+        <name>Ester</name>
+        <name>Noa</name>
+      </names>
+    </day>
+    <day date="04-01">
+      <names>
+        <name>Harald</name>
+        <name>Hervor</name>
+      </names>
+    </day>
+    <day date="04-02">
+      <names>
+        <name>Gudmund</name>
+        <name>Ingemund</name>
+      </names>
+    </day>
+    <day date="04-03">
+      <names>
+        <name>Ferdinand</name>
+        <name>Nanna</name>
+      </names>
+    </day>
+    <day date="04-04">
+      <names>
+        <name>Marianne</name>
+        <name>Marlene</name>
+      </names>
+    </day>
+    <day date="04-05">
+      <names>
+        <name>Irene</name>
+        <name>Irja</name>
+      </names>
+    </day>
+    <day date="04-06">
+      <names>
+        <name>Vilhelm</name>
+        <name>William</name>
+      </names>
+    </day>
+    <day date="04-07">
+      <names>
+        <name>Irma</name>
+        <name>Irmelin</name>
+      </names>
+    </day>
+    <day date="04-08">
+      <names>
+        <name>Nadja</name>
+        <name>Tanja</name>
+      </names>
+    </day>
+    <day date="04-09">
+      <names>
+        <name>Otto</name>
+        <name>Ottilia</name>
+      </names>
+    </day>
+    <day date="04-10">
+      <names>
+        <name>Ingvar</name>
+        <name>Ingvor</name>
+      </names>
+    </day>
+    <day date="04-11">
+      <names>
+        <name>Ulf</name>
+        <name>Ylva</name>
+      </names>
+    </day>
+    <day date="04-12">
+      <names>
+        <name>Liv</name>
+      </names>
+    </day>
+    <day date="04-13">
+      <names>
+        <name>Artur</name>
+        <name>Douglas</name>
+      </names>
+    </day>
+    <day date="04-14">
+      <names>
+        <name>Tiburtius</name>
+      </names>
+    </day>
+    <day date="04-15">
+      <names>
+        <name>Olivia</name>
+        <name>Oliver</name>
+      </names>
+    </day>
+    <day date="04-16">
+      <names>
+        <name>Patrik</name>
+        <name>Patricia</name>
+      </names>
+    </day>
+    <day date="04-17">
+      <names>
+        <name>Elias</name>
+        <name>Elis</name>
+      </names>
+    </day>
+    <day date="04-18">
+      <names>
+        <name>Valdemar</name>
+        <name>Volmar</name>
+      </names>
+    </day>
+    <day date="04-19">
+      <names>
+        <name>Olaus</name>
+        <name>Ola</name>
+      </names>
+    </day>
+    <day date="04-20">
+      <names>
+        <name>Amalia</name>
+        <name>Amelie</name>
+      </names>
+    </day>
+    <day date="04-21">
+      <names>
+        <name>Anneli</name>
+        <name>Annika</name>
+      </names>
+    </day>
+    <day date="04-22">
+      <names>
+        <name>Allan</name>
+        <name>Glenn</name>
+      </names>
+    </day>
+    <day date="04-23">
+      <names>
+        <name>Georg</name>
+        <name>Göran</name>
+      </names>
+    </day>
+    <day date="04-24">
+      <names>
+        <name>Vega</name>
+      </names>
+    </day>
+    <day date="04-25">
+      <names>
+        <name>Markus</name>
+      </names>
+    </day>
+    <day date="04-26">
+      <names>
+        <name>Teresia</name>
+        <name>Terese</name>
+      </names>
+    </day>
+    <day date="04-27">
+      <names>
+        <name>Engelbrekt</name>
+      </names>
+    </day>
+    <day date="04-28">
+      <names>
+        <name>Ture</name>
+        <name>Tyra</name>
+      </names>
+    </day>
+    <day date="04-29">
+      <names>
+        <name>Tyko</name>
+      </names>
+    </day>
+    <day date="04-30">
+      <names>
+        <name>Mariana</name>
+      </names>
+      <note>Valborgsmässoafton</note>
+    </day>
+    <day date="05-01">
+      <names>
+        <name>Valborg</name>
+      </names>
+      <note>Första maj</note>
+    </day>
+    <day date="05-02">
+      <names>
+        <name>Filip</name>
+        <name>Filippa</name>
+      </names>
+    </day>
+    <day date="05-03">
+      <names>
+        <name>John</name>
+        <name>Jane</name>
+      </names>
+    </day>
+    <day date="05-04">
+      <names>
+        <name>Monika</name>
+        <name>Mona</name>
+      </names>
+    </day>
+    <day date="05-05">
+      <names>
+        <name>Gotthard</name>
+        <name>Erhard</name>
+      </names>
+    </day>
+    <day date="05-06">
+      <names>
+        <name>Marit</name>
+        <name>Rita</name>
+      </names>
+    </day>
+    <day date="05-07">
+      <names>
+        <name>Carina</name>
+        <name>Carita</name>
+      </names>
+    </day>
+    <day date="05-08">
+      <names>
+        <name>Åke</name>
+      </names>
+    </day>
+    <day date="05-09">
+      <names>
+        <name>Reidar</name>
+        <name>Reidun</name>
+      </names>
+    </day>
+    <day date="05-10">
+      <names>
+        <name>Esbjörn</name>
+        <name>Styrbjörn</name>
+      </names>
+    </day>
+    <day date="05-11">
+      <names>
+        <name>Märta</name>
+        <name>Märit</name>
+      </names>
+    </day>
+    <day date="05-12">
+      <names>
+        <name>Charlotta</name>
+        <name>Lotta</name>
+      </names>
+    </day>
+    <day date="05-13">
+      <names>
+        <name>Linnea</name>
+        <name>Linn</name>
+      </names>
+    </day>
+    <day date="05-14">
+      <names>
+        <name>Halvard</name>
+        <name>Halvar</name>
+      </names>
+    </day>
+    <day date="05-15">
+      <names>
+        <name>Sofia</name>
+        <name>Sonja</name>
+      </names>
+    </day>
+    <day date="05-16">
+      <names>
+        <name>Ronald</name>
+        <name>Ronny</name>
+      </names>
+    </day>
+    <day date="05-17">
+      <names>
+        <name>Rebecka</name>
+        <name>Ruben</name>
+      </names>
+    </day>
+    <day date="05-18">
+      <names>
+        <name>Erik</name>
+      </names>
+    </day>
+    <day date="05-19">
+      <names>
+        <name>Maj</name>
+        <name>Majken</name>
+      </names>
+    </day>
+    <day date="05-20">
+      <names>
+        <name>Karolina</name>
+        <name>Carola</name>
+      </names>
+    </day>
+    <day date="05-21">
+      <names>
+        <name>Konstantin</name>
+        <name>Conny</name>
+      </names>
+    </day>
+    <day date="05-22">
+      <names>
+        <name>Hemming</name>
+        <name>Henning</name>
+      </names>
+    </day>
+    <day date="05-23">
+      <names>
+        <name>Desideria</name>
+        <name>Desirée</name>
+      </names>
+    </day>
+    <day date="05-24">
+      <names>
+        <name>Ivan</name>
+        <name>Vanja</name>
+      </names>
+    </day>
+    <day date="05-25">
+      <names>
+        <name>Urban</name>
+      </names>
+    </day>
+    <day date="05-26">
+      <names>
+        <name>Vilhelmina</name>
+        <name>Vilma</name>
+      </names>
+    </day>
+    <day date="05-27">
+      <names>
+        <name>Beda</name>
+        <name>Blenda</name>
+      </names>
+    </day>
+    <day date="05-28">
+      <names>
+        <name>Ingeborg</name>
+        <name>Borghild</name>
+      </names>
+    </day>
+    <day date="05-29">
+      <names>
+        <name>Yvonne</name>
+        <name>Jeanette</name>
+      </names>
+    </day>
+    <day date="05-30">
+      <names>
+        <name>Vera</name>
+        <name>Veronika</name>
+      </names>
+    </day>
+    <day date="05-31">
+      <names>
+        <name>Petronella</name>
+        <name>Pernilla</name>
+      </names>
+    </day>
+    <day date="06-01">
+      <names>
+        <name>Gun</name>
+        <name>Gunnel</name>
+      </names>
+    </day>
+    <day date="06-02">
+      <names>
+        <name>Rutger</name>
+        <name>Roger</name>
+      </names>
+    </day>
+    <day date="06-03">
+      <names>
+        <name>Ingemar</name>
+        <name>Gudmar</name>
+      </names>
+    </day>
+    <day date="06-04">
+      <names>
+        <name>Solbritt</name>
+        <name>Solveig</name>
+      </names>
+    </day>
+    <day date="06-05">
+      <names>
+        <name>Bo</name>
+      </names>
+    </day>
+    <day date="06-06">
+      <names>
+        <name>Gustav</name>
+        <name>Gösta</name>
+      </names>
+    </day>
+    <day date="06-07">
+      <names>
+        <name>Robert</name>
+        <name>Robin</name>
+      </names>
+    </day>
+    <day date="06-08">
+      <names>
+        <name>Eivor</name>
+        <name>Majvor</name>
+      </names>
+    </day>
+    <day date="06-09">
+      <names>
+        <name>Börje</name>
+        <name>Birger</name>
+      </names>
+    </day>
+    <day date="06-10">
+      <names>
+        <name>Svante</name>
+        <name>Boris</name>
+      </names>
+    </day>
+    <day date="06-11">
+      <names>
+        <name>Bertil</name>
+        <name>Berthold</name>
+      </names>
+    </day>
+    <day date="06-12">
+      <names>
+        <name>Eskil</name>
+      </names>
+    </day>
+    <day date="06-13">
+      <names>
+        <name>Aina</name>
+        <name>Aino</name>
+      </names>
+    </day>
+    <day date="06-14">
+      <names>
+        <name>Håkan</name>
+        <name>Hakon</name>
+      </names>
+    </day>
+    <day date="06-15">
+      <names>
+        <name>Margit</name>
+        <name>Margot</name>
+      </names>
+    </day>
+    <day date="06-16">
+      <names>
+        <name>Axel</name>
+        <name>Axelina</name>
+      </names>
+    </day>
+    <day date="06-17">
+      <names>
+        <name>Torborg</name>
+        <name>Torvald</name>
+      </names>
+    </day>
+    <day date="06-18">
+      <names>
+        <name>Björn</name>
+        <name>Bjarne</name>
+      </names>
+    </day>
+    <day date="06-19">
+      <names>
+        <name>Germund</name>
+        <name>Görel</name>
+      </names>
+    </day>
+    <day date="06-20">
+      <names>
+        <name>Linda</name>
+      </names>
+    </day>
+    <day date="06-21">
+      <names>
+        <name>Alf</name>
+        <name>Alvar</name>
+      </names>
+    </day>
+    <day date="06-22">
+      <names>
+        <name>Paulina</name>
+        <name>Paula</name>
+      </names>
+    </day>
+    <day date="06-23">
+      <names>
+        <name>Adolf</name>
+        <name>Alice</name>
+      </names>
+    </day>
+    <day date="06-25">
+      <names>
+        <name>David</name>
+        <name>Salomon</name>
+      </names>
+    </day>
+    <day date="06-26">
+      <names>
+        <name>Rakel</name>
+        <name>Lea</name>
+      </names>
+    </day>
+    <day date="06-27">
+      <names>
+        <name>Selma</name>
+        <name>Fingal</name>
+      </names>
+    </day>
+    <day date="06-28">
+      <names>
+        <name>Leo</name>
+      </names>
+    </day>
+    <day date="06-29">
+      <names>
+        <name>Peter</name>
+        <name>Petra</name>
+      </names>
+    </day>
+    <day date="06-30">
+      <names>
+        <name>Elof</name>
+        <name>Leif</name>
+      </names>
+    </day>
+    <day date="07-01">
+      <names>
+        <name>Aron</name>
+        <name>Mirjam</name>
+      </names>
+    </day>
+    <day date="07-02">
+      <names>
+        <name>Rosa</name>
+        <name>Rosita</name>
+      </names>
+    </day>
+    <day date="07-03">
+      <names>
+        <name>Aurora</name>
+      </names>
+    </day>
+    <day date="07-04">
+      <names>
+        <name>Ulrika</name>
+        <name>Ulla</name>
+      </names>
+    </day>
+    <day date="07-05">
+      <names>
+        <name>Laila</name>
+        <name>Ritva</name>
+      </names>
+    </day>
+    <day date="07-06">
+      <names>
+        <name>Esaias</name>
+        <name>Jessika</name>
+      </names>
+    </day>
+    <day date="07-07">
+      <names>
+        <name>Klas</name>
+      </names>
+    </day>
+    <day date="07-08">
+      <names>
+        <name>Kjell</name>
+      </names>
+    </day>
+    <day date="07-09">
+      <names>
+        <name>Jörgen</name>
+        <name>Örjan</name>
+      </names>
+    </day>
+    <day date="07-10">
+      <names>
+        <name>André</name>
+        <name>Andrea</name>
+      </names>
+    </day>
+    <day date="07-11">
+      <names>
+        <name>Eleonora</name>
+        <name>Ellinor</name>
+      </names>
+    </day>
+    <day date="07-12">
+      <names>
+        <name>Herman</name>
+        <name>Hermine</name>
+      </names>
+    </day>
+    <day date="07-13">
+      <names>
+        <name>Joel</name>
+        <name>Judit</name>
+      </names>
+    </day>
+    <day date="07-14">
+      <names>
+        <name>Folke</name>
+      </names>
+    </day>
+    <day date="07-15">
+      <names>
+        <name>Ragnhild</name>
+        <name>Ragnvald</name>
+      </names>
+    </day>
+    <day date="07-16">
+      <names>
+        <name>Reinhold</name>
+        <name>Reine</name>
+      </names>
+    </day>
+    <day date="07-17">
+      <names>
+        <name>Bruno</name>
+      </names>
+    </day>
+    <day date="07-18">
+      <names>
+        <name>Fredrik</name>
+        <name>Fritz</name>
+      </names>
+    </day>
+    <day date="07-19">
+      <names>
+        <name>Sara</name>
+      </names>
+    </day>
+    <day date="07-20">
+      <names>
+        <name>Margareta</name>
+        <name>Greta</name>
+      </names>
+    </day>
+    <day date="07-21">
+      <names>
+        <name>Johanna</name>
+      </names>
+    </day>
+    <day date="07-22">
+      <names>
+        <name>Magdalena</name>
+        <name>Madeleine</name>
+      </names>
+    </day>
+    <day date="07-23">
+      <names>
+        <name>Emma</name>
+        <name>Emmy</name>
+      </names>
+    </day>
+    <day date="07-24">
+      <names>
+        <name>Kristina</name>
+        <name>Kerstin</name>
+      </names>
+    </day>
+    <day date="07-25">
+      <names>
+        <name>Jakob</name>
+      </names>
+    </day>
+    <day date="07-26">
+      <names>
+        <name>Jesper</name>
+        <name>Jasmine</name>
+      </names>
+    </day>
+    <day date="07-27">
+      <names>
+        <name>Marta</name>
+      </names>
+    </day>
+    <day date="07-28">
+      <names>
+        <name>Botvid</name>
+        <name>Seved</name>
+      </names>
+    </day>
+    <day date="07-29">
+      <names>
+        <name>Olof</name>
+        <name>Olle</name>
+      </names>
+    </day>
+    <day date="07-30">
+      <names>
+        <name>Algot</name>
+      </names>
+    </day>
+    <day date="07-31">
+      <names>
+        <name>Helena</name>
+        <name>Elin</name>
+      </names>
+    </day>
+    <day date="08-01">
+      <names>
+        <name>Per</name>
+      </names>
+    </day>
+    <day date="08-02">
+      <names>
+        <name>Karin</name>
+        <name>Kajsa</name>
+      </names>
+    </day>
+    <day date="08-03">
+      <names>
+        <name>Tage</name>
+      </names>
+    </day>
+    <day date="08-04">
+      <names>
+        <name>Arne</name>
+        <name>Arnold</name>
+      </names>
+    </day>
+    <day date="08-05">
+      <names>
+        <name>Ulrik</name>
+        <name>Alrik</name>
+      </names>
+    </day>
+    <day date="08-06">
+      <names>
+        <name>Alfons</name>
+        <name>Inez</name>
+      </names>
+    </day>
+    <day date="08-07">
+      <names>
+        <name>Dennis</name>
+        <name>Denise</name>
+      </names>
+    </day>
+    <day date="08-08">
+      <names>
+        <name>Silvia</name>
+        <name>Sylvia</name>
+      </names>
+    </day>
+    <day date="08-09">
+      <names>
+        <name>Roland</name>
+      </names>
+    </day>
+    <day date="08-10">
+      <names>
+        <name>Lars</name>
+      </names>
+    </day>
+    <day date="08-11">
+      <names>
+        <name>Susanna</name>
+      </names>
+    </day>
+    <day date="08-12">
+      <names>
+        <name>Klara</name>
+      </names>
+    </day>
+    <day date="08-13">
+      <names>
+        <name>Kaj</name>
+      </names>
+    </day>
+    <day date="08-14">
+      <names>
+        <name>Uno</name>
+      </names>
+    </day>
+    <day date="08-15">
+      <names>
+        <name>Stella</name>
+        <name>Estelle</name>
+      </names>
+    </day>
+    <day date="08-16">
+      <names>
+        <name>Brynolf</name>
+      </names>
+    </day>
+    <day date="08-17">
+      <names>
+        <name>Verner</name>
+        <name>Valter</name>
+      </names>
+    </day>
+    <day date="08-18">
+      <names>
+        <name>Ellen</name>
+        <name>Lena</name>
+      </names>
+    </day>
+    <day date="08-19">
+      <names>
+        <name>Magnus</name>
+        <name>Måns</name>
+      </names>
+    </day>
+    <day date="08-20">
+      <names>
+        <name>Bernhard</name>
+        <name>Bernt</name>
+      </names>
+    </day>
+    <day date="08-21">
+      <names>
+        <name>Jon</name>
+        <name>Jonna</name>
+      </names>
+    </day>
+    <day date="08-22">
+      <names>
+        <name>Henrietta</name>
+        <name>Henrika</name>
+      </names>
+    </day>
+    <day date="08-23">
+      <names>
+        <name>Signe</name>
+        <name>Signhild</name>
+      </names>
+    </day>
+    <day date="08-24">
+      <names>
+        <name>Bartolomeus</name>
+      </names>
+    </day>
+    <day date="08-25">
+      <names>
+        <name>Lovisa</name>
+        <name>Louise</name>
+      </names>
+    </day>
+    <day date="08-26">
+      <names>
+        <name>Östen</name>
+      </names>
+    </day>
+    <day date="08-27">
+      <names>
+        <name>Rolf</name>
+        <name>Raoul</name>
+      </names>
+    </day>
+    <day date="08-28">
+      <names>
+        <name>Fatima</name>
+        <name>Leila</name>
+      </names>
+    </day>
+    <day date="08-29">
+      <names>
+        <name>Hans</name>
+        <name>Hampus</name>
+      </names>
+    </day>
+    <day date="08-30">
+      <names>
+        <name>Albert</name>
+        <name>Albertina</name>
+      </names>
+    </day>
+    <day date="08-31">
+      <names>
+        <name>Arvid</name>
+        <name>Vidar</name>
+      </names>
+    </day>
+    <day date="09-01">
+      <names>
+        <name>Samuel</name>
+        <name>Sam</name>
+      </names>
+    </day>
+    <day date="09-02">
+      <names>
+        <name>Justus</name>
+        <name>Justina</name>
+      </names>
+    </day>
+    <day date="09-03">
+      <names>
+        <name>Alfhild</name>
+        <name>Alva</name>
+      </names>
+    </day>
+    <day date="09-04">
+      <names>
+        <name>Gisela</name>
+      </names>
+    </day>
+    <day date="09-05">
+      <names>
+        <name>Adela</name>
+        <name>Heidi</name>
+      </names>
+    </day>
+    <day date="09-06">
+      <names>
+        <name>Lilian</name>
+        <name>Lilly</name>
+      </names>
+    </day>
+    <day date="09-07">
+      <names>
+        <name>Kevin</name>
+        <name>Roy</name>
+      </names>
+    </day>
+    <day date="09-08">
+      <names>
+        <name>Alma</name>
+        <name>Hulda</name>
+      </names>
+    </day>
+    <day date="09-09">
+      <names>
+        <name>Anita</name>
+        <name>Annette</name>
+      </names>
+    </day>
+    <day date="09-10">
+      <names>
+        <name>Tord</name>
+        <name>Turid</name>
+      </names>
+    </day>
+    <day date="09-11">
+      <names>
+        <name>Dagny</name>
+        <name>Helny</name>
+      </names>
+    </day>
+    <day date="09-12">
+      <names>
+        <name>Åsa</name>
+        <name>Åslög</name>
+      </names>
+    </day>
+    <day date="09-13">
+      <names>
+        <name>Sture</name>
+      </names>
+    </day>
+    <day date="09-14">
+      <names>
+        <name>Ida</name>
+        <name>Ronja</name>
+      </names>
+    </day>
+    <day date="09-15">
+      <names>
+        <name>Sigrid</name>
+        <name>Siri</name>
+      </names>
+    </day>
+    <day date="09-16">
+      <names>
+        <name>Dag</name>
+        <name>Daga</name>
+      </names>
+    </day>
+    <day date="09-17">
+      <names>
+        <name>Hildegard</name>
+        <name>Magnhild</name>
+      </names>
+    </day>
+    <day date="09-18">
+      <names>
+        <name>Orvar</name>
+      </names>
+    </day>
+    <day date="09-19">
+      <names>
+        <name>Fredrika</name>
+      </names>
+    </day>
+    <day date="09-20">
+      <names>
+        <name>Elise</name>
+        <name>Lisa</name>
+      </names>
+    </day>
+    <day date="09-21">
+      <names>
+        <name>Matteus</name>
+      </names>
+    </day>
+    <day date="09-22">
+      <names>
+        <name>Maurits</name>
+        <name>Moritz</name>
+      </names>
+    </day>
+    <day date="09-23">
+      <names>
+        <name>Tekla</name>
+        <name>Tea</name>
+      </names>
+    </day>
+    <day date="09-24">
+      <names>
+        <name>Gerhard</name>
+        <name>Gert</name>
+      </names>
+    </day>
+    <day date="09-25">
+      <names>
+        <name>Tryggve</name>
+      </names>
+    </day>
+    <day date="09-26">
+      <names>
+        <name>Enar</name>
+        <name>Einar</name>
+      </names>
+    </day>
+    <day date="09-27">
+      <names>
+        <name>Dagmar</name>
+        <name>Rigmor</name>
+      </names>
+    </day>
+    <day date="09-28">
+      <names>
+        <name>Lennart</name>
+        <name>Leonard</name>
+      </names>
+    </day>
+    <day date="09-29">
+      <names>
+        <name>Mikael</name>
+        <name>Mikaela</name>
+      </names>
+    </day>
+    <day date="09-30">
+      <names>
+        <name>Helge</name>
+      </names>
+    </day>
+    <day date="10-01">
+      <names>
+        <name>Ragnar</name>
+        <name>Ragna</name>
+      </names>
+    </day>
+    <day date="10-02">
+      <names>
+        <name>Ludvig</name>
+        <name>Love</name>
+      </names>
+    </day>
+    <day date="10-03">
+      <names>
+        <name>Evald</name>
+        <name>Osvald</name>
+      </names>
+    </day>
+    <day date="10-04">
+      <names>
+        <name>Frans</name>
+        <name>Frank</name>
+      </names>
+    </day>
+    <day date="10-05">
+      <names>
+        <name>Bror</name>
+      </names>
+    </day>
+    <day date="10-06">
+      <names>
+        <name>Jenny</name>
+        <name>Jennifer</name>
+      </names>
+    </day>
+    <day date="10-07">
+      <names>
+        <name>Birgitta</name>
+        <name>Britta</name>
+      </names>
+    </day>
+    <day date="10-08">
+      <names>
+        <name>Nils</name>
+      </names>
+    </day>
+    <day date="10-09">
+      <names>
+        <name>Ingrid</name>
+        <name>Inger</name>
+      </names>
+    </day>
+    <day date="10-10">
+      <names>
+        <name>Harry</name>
+        <name>Harriet</name>
+      </names>
+    </day>
+    <day date="10-11">
+      <names>
+        <name>Erling</name>
+        <name>Jarl</name>
+      </names>
+    </day>
+    <day date="10-12">
+      <names>
+        <name>Valfrid</name>
+        <name>Manfred</name>
+      </names>
+    </day>
+    <day date="10-13">
+      <names>
+        <name>Berit</name>
+        <name>Birgit</name>
+      </names>
+    </day>
+    <day date="10-14">
+      <names>
+        <name>Stellan</name>
+      </names>
+    </day>
+    <day date="10-15">
+      <names>
+        <name>Hedvig</name>
+        <name>Hillevi</name>
+      </names>
+    </day>
+    <day date="10-16">
+      <names>
+        <name>Finn</name>
+      </names>
+    </day>
+    <day date="10-17">
+      <names>
+        <name>Antonia</name>
+        <name>Toini</name>
+      </names>
+    </day>
+    <day date="10-18">
+      <names>
+        <name>Lukas</name>
+      </names>
+    </day>
+    <day date="10-19">
+      <names>
+        <name>Tore</name>
+        <name>Tor</name>
+      </names>
+    </day>
+    <day date="10-20">
+      <names>
+        <name>Sibylla</name>
+      </names>
+    </day>
+    <day date="10-21">
+      <names>
+        <name>Ursula</name>
+        <name>Yrsa</name>
+      </names>
+    </day>
+    <day date="10-22">
+      <names>
+        <name>Marika</name>
+        <name>Marita</name>
+      </names>
+    </day>
+    <day date="10-23">
+      <names>
+        <name>Severin</name>
+        <name>Sören</name>
+      </names>
+    </day>
+    <day date="10-24">
+      <names>
+        <name>Evert</name>
+        <name>Eilert</name>
+      </names>
+    </day>
+    <day date="10-25">
+      <names>
+        <name>Inga</name>
+        <name>Ingalill</name>
+      </names>
+    </day>
+    <day date="10-26">
+      <names>
+        <name>Amanda</name>
+        <name>Rasmus</name>
+      </names>
+    </day>
+    <day date="10-27">
+      <names>
+        <name>Sabina</name>
+      </names>
+    </day>
+    <day date="10-28">
+      <names>
+        <name>Simon</name>
+        <name>Simone</name>
+      </names>
+    </day>
+    <day date="10-29">
+      <names>
+        <name>Viola</name>
+      </names>
+    </day>
+    <day date="10-30">
+      <names>
+        <name>Elsa</name>
+        <name>Isabella</name>
+      </names>
+    </day>
+    <day date="10-31">
+      <names>
+        <name>Edit</name>
+        <name>Edgar</name>
+      </names>
+    </day>
+    <day date="11-02">
+      <names>
+        <name>Tobias</name>
+        <name>Tim</name>
+      </names>
+    </day>
+    <day date="11-03">
+      <names>
+        <name>Hubert</name>
+        <name>Hugo</name>
+      </names>
+    </day>
+    <day date="11-04">
+      <names>
+        <name>Sverker</name>
+      </names>
+    </day>
+    <day date="11-05">
+      <names>
+        <name>Eugen</name>
+        <name>Eugenia</name>
+      </names>
+    </day>
+    <day date="11-06">
+      <names>
+        <name>Gustav Adolf</name>
+      </names>
+    </day>
+    <day date="11-07">
+      <names>
+        <name>Ingegerd</name>
+        <name>Ingela</name>
+      </names>
+    </day>
+    <day date="11-08">
+      <names>
+        <name>Vendela</name>
+      </names>
+    </day>
+    <day date="11-09">
+      <names>
+        <name>Teodor</name>
+        <name>Teodora</name>
+      </names>
+    </day>
+    <day date="11-10">
+      <names>
+        <name>Martin</name>
+        <name>Martina</name>
+      </names>
+    </day>
+    <day date="11-11">
+      <names>
+        <name>Mårten</name>
+      </names>
+    </day>
+    <day date="11-12">
+      <names>
+        <name>Konrad</name>
+        <name>Kurt</name>
+      </names>
+    </day>
+    <day date="11-13">
+      <names>
+        <name>Kristian</name>
+        <name>Krister</name>
+      </names>
+    </day>
+    <day date="11-14">
+      <names>
+        <name>Emil</name>
+        <name>Emilia</name>
+      </names>
+    </day>
+    <day date="11-15">
+      <names>
+        <name>Leopold</name>
+      </names>
+    </day>
+    <day date="11-16">
+      <names>
+        <name>Vibeke</name>
+        <name>Viveka</name>
+      </names>
+    </day>
+    <day date="11-17">
+      <names>
+        <name>Naemi</name>
+        <name>Naima</name>
+      </names>
+    </day>
+    <day date="11-18">
+      <names>
+        <name>Lillemor</name>
+        <name>Moa</name>
+      </names>
+    </day>
+    <day date="11-19">
+      <names>
+        <name>Elisabet</name>
+        <name>Lisbet</name>
+      </names>
+    </day>
+    <day date="11-20">
+      <names>
+        <name>Pontus</name>
+        <name>Marina</name>
+      </names>
+    </day>
+    <day date="11-21">
+      <names>
+        <name>Helga</name>
+        <name>Olga</name>
+      </names>
+    </day>
+    <day date="11-22">
+      <names>
+        <name>Cecilia</name>
+        <name>Sissela</name>
+      </names>
+    </day>
+    <day date="11-23">
+      <names>
+        <name>Klemens</name>
+      </names>
+    </day>
+    <day date="11-24">
+      <names>
+        <name>Gudrun</name>
+        <name>Rune</name>
+      </names>
+    </day>
+    <day date="11-25">
+      <names>
+        <name>Katarina</name>
+        <name>Katja</name>
+      </names>
+    </day>
+    <day date="11-26">
+      <names>
+        <name>Linus</name>
+      </names>
+    </day>
+    <day date="11-27">
+      <names>
+        <name>Astrid</name>
+        <name>Asta</name>
+      </names>
+    </day>
+    <day date="11-28">
+      <names>
+        <name>Malte</name>
+      </names>
+    </day>
+    <day date="11-29">
+      <names>
+        <name>Sune</name>
+      </names>
+    </day>
+    <day date="11-30">
+      <names>
+        <name>Andreas</name>
+        <name>Anders</name>
+      </names>
+    </day>
+    <day date="12-01">
+      <names>
+        <name>Oskar</name>
+        <name>Ossian</name>
+      </names>
+    </day>
+    <day date="12-02">
+      <names>
+        <name>Beata</name>
+        <name>Beatrice</name>
+      </names>
+    </day>
+    <day date="12-03">
+      <names>
+        <name>Lydia</name>
+        <name>Cornelia</name>
+      </names>
+    </day>
+    <day date="12-04">
+      <names>
+        <name>Barbara</name>
+        <name>Barbro</name>
+      </names>
+    </day>
+    <day date="12-05">
+      <names>
+        <name>Sven</name>
+      </names>
+    </day>
+    <day date="12-06">
+      <names>
+        <name>Nikolaus</name>
+        <name>Niklas</name>
+      </names>
+    </day>
+    <day date="12-07">
+      <names>
+        <name>Angela</name>
+        <name>Angelika</name>
+      </names>
+    </day>
+    <day date="12-08">
+      <names>
+        <name>Virginia</name>
+      </names>
+    </day>
+    <day date="12-09">
+      <names>
+        <name>Anna</name>
+      </names>
+    </day>
+    <day date="12-10">
+      <names>
+        <name>Malin</name>
+        <name>Malena</name>
+      </names>
+    </day>
+    <day date="12-11">
+      <names>
+        <name>Daniel</name>
+        <name>Daniela</name>
+      </names>
+    </day>
+    <day date="12-12">
+      <names>
+        <name>Alexander</name>
+        <name>Alexis</name>
+      </names>
+    </day>
+    <day date="12-13">
+      <names>
+        <name>Lucia</name>
+      </names>
+    </day>
+    <day date="12-14">
+      <names>
+        <name>Sten</name>
+        <name>Sixten</name>
+      </names>
+    </day>
+    <day date="12-15">
+      <names>
+        <name>Gottfrid</name>
+      </names>
+    </day>
+    <day date="12-16">
+      <names>
+        <name>Assar</name>
+      </names>
+    </day>
+    <day date="12-17">
+      <names>
+        <name>Stig</name>
+      </names>
+    </day>
+    <day date="12-18">
+      <names>
+        <name>Abraham</name>
+      </names>
+    </day>
+    <day date="12-19">
+      <names>
+        <name>Isak</name>
+      </names>
+    </day>
+    <day date="12-20">
+      <names>
+        <name>Israel</name>
+        <name>Moses</name>
+      </names>
+    </day>
+    <day date="12-21">
+      <names>
+        <name>Tomas</name>
+      </names>
+    </day>
+    <day date="12-22">
+      <names>
+        <name>Natanael</name>
+        <name>Jonatan</name>
+      </names>
+    </day>
+    <day date="12-23">
+      <names>
+        <name>Adam</name>
+      </names>
+    </day>
+    <day date="12-24">
+      <names>
+        <name>Eva</name>
+      </names>
+      <note>Julafton</note>
+    </day>
+    <day date="12-26">
+      <names>
+        <name>Stefan</name>
+        <name>Staffan</name>
+      </names>
+      <note>Annandag jul</note>
+    </day>
+    <day date="12-27">
+      <names>
+        <name>Johannes</name>
+        <name>Johan</name>
+      </names>
+    </day>
+    <day date="12-28">
+      <names>
+        <name>Benjamin</name>
+      </names>
+      <note>Värnlösa barns dag</note>
+    </day>
+    <day date="12-29">
+      <names>
+        <name>Natalia</name>
+        <name>Natalie</name>
+      </names>
+    </day>
+    <day date="12-30">
+      <names>
+        <name>Abel</name>
+        <name>Set</name>
+      </names>
+    </day>
+    <day date="12-31">
+      <names>
+        <name>Sylvester</name>
+      </names>
+    </day>
+  </days>
+</namnsdagar>
