@@ -1,10 +1,12 @@
 # Namnsdagar CSV JSON XML
 
-Sveriges namnsdagar sorterade efter datum, formaterade som **CSV**, **JSON** och **XML**.
+Sveriges namnsdagar sorterade efter datum, formaterade som CSV, JSON och XML.
+
+Datan är strukturerad för att vara enkel att importera och slå upp, oavsett om du bygger en mobilapp, webbplats eller ett API, kör schemalagda automationer eller gör analys i till exempel Python eller Excel. Du kan snabbt hitta namnsdagar per datum och använda listan för filtrering, statistik och visualisering.
 
 Från och med år 2022 innehåller namnlängden 627 namn: 310 namn som oftast bärs av kvinnor och 317 namn som oftast bärs av män.
 
-Datasetet är tänkt att vara enkelt att använda i appar, webb, automationer och analys.
+Datasetet är tänkt att vara lätt att använda, lätt att versionera och enkelt att integrera i både små och stora projekt.
 
 ## Filformat
 + CSV
