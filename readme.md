@@ -10,3 +10,6 @@ Från och med år **2022** innehåller namnlängden **627 namn**: **310** namn s
 + CSV
 + JSON
 + XML
+
+## Datamodell
+Datasetet använder "date" som nyckel och är sorterat i kalenderordning.
