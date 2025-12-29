@@ -6,11 +6,18 @@ Från och med år **2022** innehåller namnlängden **627 namn**: **310** namn s
 
 > Datasetet är tänkt att vara enkelt att använda i appar, webb, automationer och analys.
 
-
-## Filformat
+### Filformat
 + CSV
 + JSON
 + XML
 
-## Datamodell
-Datasetet använder "date" som nyckel och är sorterat i kalenderordning.
+## Hittat fel?
+
+Upptäckt ett fel? Hör gärna av dig så att datasetet kan bli bättre.
+
+Skapa en **Issue** och inkludera gärna:
+- vilket datum (MM-DD) det gäller
+- vad som är fel och vad du anser är korrekt
+- (om möjligt) källa/referens
+
+Du kan också skicka en **Pull Request** om du vill bidra med en fix.
